@@ -229,9 +229,6 @@ android {
 }
 ```
 
-## 📱 Screenshots
-
-*[Screenshots would be added here showing the login screen, dashboard, and entity details]*
 
 ## 🤝 Contributing
 
