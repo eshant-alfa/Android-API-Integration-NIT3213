@@ -120,7 +120,7 @@ Before running this project, ensure you have the following installed:
    - Update the `BASE_URL` constant with your API endpoint
    ```kotlin
    companion object {
-       const val BASE_URL = "https://your-api-endpoint.com/"
+       const val BASE_URL = "https://nit3213api.onrender.com/"
    }
    ```
 
@@ -201,7 +201,7 @@ Update the API configuration in `ApiService.kt`:
 ```kotlin
 interface ApiService {
     companion object {
-        const val BASE_URL = "https://your-api-base-url.com/"
+        const val BASE_URL = "https://nit3213api.onrender.com/"
         const val TIMEOUT_SECONDS = 30L
     }
     
